@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qurandku/static/css/main.d9a01d77.css",
+    "main.js": "/qurandku/static/js/main.63405eb5.js",
+    "static/js/787.4895be9a.chunk.js": "/qurandku/static/js/787.4895be9a.chunk.js",
+    "index.html": "/qurandku/index.html",
+    "main.d9a01d77.css.map": "/qurandku/static/css/main.d9a01d77.css.map",
+    "main.63405eb5.js.map": "/qurandku/static/js/main.63405eb5.js.map",
+    "787.4895be9a.chunk.js.map": "/qurandku/static/js/787.4895be9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9a01d77.css",
+    "static/js/main.63405eb5.js"
+  ]
+}
